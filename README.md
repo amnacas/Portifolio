@@ -25,7 +25,7 @@ Atualmente expandindo os horizontes com Python, Power BI, Business Intelligence 
 ## Projetos:
 Alguns projetos desenvolvidos durante o meu aprendizado em Data Science:
 
-* **Análise descritiva dos dados do Airbnb em Londres:** https://
+* **Análise descritiva dos dados do Airbnb em Londres:** https://bityli.com/Ks8TK
 
 
 ---
