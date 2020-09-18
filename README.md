@@ -26,7 +26,7 @@ Atualmente expandindo os horizontes com Python, Power BI, Business Intelligence 
 Alguns projetos desenvolvidos durante o meu aprendizado em Data Science:
 
 * **Análise descritiva dos dados do Airbnb em Londres:** http://bit.do/Airbnb_London
-* **Setembro Amarelo: Análise exploratória dos dados de suicidio no Brasil** Em breve
+* **Setembro Amarelo: Análise exploratória dos dados de suicídio no Brasil:** ~Em breve~
 
 
 ---
