@@ -4,7 +4,7 @@
   <img src="banner.png" >
 </p>
 
-# Amanda Nacas
+# Amanda Martins Nacas
 <sub>*Data Scientist in progress* </sub>
 
 Possui graduação em Engenharia de Materiais (2014) e  Bacharel em Ciência e Tecnologia (2013) pela Universidade Federal do ABC.
@@ -28,6 +28,10 @@ Alguns projetos desenvolvidos durante o meu aprendizado em Data Science:
 * **Setembro Amarelo: Análise exploratória dos dados de suicídio no Brasil:** http://bit.do/setembro_amarelo
 * **Análise descritiva dos dados do Airbnb em Londres:** http://bit.do/Airbnb_London - Em construção
 
+## Artigos:
+* **5 habilidades essenciais de um PhD para o mundo corporativo** http://bit.do/5-habilidades-essenciais-de-um-phd-para-o-mundo
+* **Setembro Amarelo: Análise exploratória dos dados de suicídios no Brasil (1985–2015)** http://bit.do/analise-setembro-amarelo
+* **4 habilidades desenvolvidas ao aprender programação** http://bit.do/4-habilidades-desenvolvidas-ao-aprender-programacao
 
 
 ---
