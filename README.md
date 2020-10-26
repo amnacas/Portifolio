@@ -25,8 +25,21 @@ Atualmente expandindo os horizontes com Python, Power BI, Business Intelligence 
 ## Projetos:
 Alguns projetos desenvolvidos durante o meu aprendizado em Data Science:
 
-* **Setembro Amarelo: Análise exploratória dos dados de suicídio no Brasil:** http://bit.do/setembro_amarelo
-* **Análise descritiva dos dados do Airbnb em Londres:** http://bit.do/Airbnb_London - Em construção
+* **Setembro Amarelo: Análise exploratória dos dados de suicídio no Brasil:** 
+  Github - http://bit.do/setembro_amarelo
+  Google Colab - http://bit.do/colab_setembro_amarelo
+  
+* **Análise descritiva dos dados do Airbnb em Londres:** - Em construção
+   Github - http://bit.do/Airbnb_London 
+   Google Colab - http://bit.do/colab_airbnb_londres 
+
+* **Análise de dados do Enem 2019 - Baseado na semana Imersão Dados Alura** - Em construção
+   Github - http://bit.do/Enem2019
+   Google Colab - http://bit.do/colab_Enem2019
+   
+* **Data Cleaning com Python** - Em construção
+   Github - http://bit.do/DataCleaning
+   Google Colab - http://bit.do/colab_DataCleaning
 
 ## Artigos:
 * **5 habilidades essenciais de um PhD para o mundo corporativo** http://bit.do/5-habilidades-essenciais-de-um-phd-para-o-mundo
