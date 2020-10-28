@@ -37,11 +37,17 @@ Alguns projetos desenvolvidos durante o meu aprendizado em Data Science:
    
    * Google Colab - http://bit.do/colab_airbnb_londres 
 
-* **Análise de dados do Enem 2019 - Baseado na semana Imersão Dados Alura** - Em construção
+* **Análise exploratória de dados do enem - Imersão Dados Alura** - Em construção
 
    * Github - http://bit.do/Enem2019
    
    * Google Colab - http://bit.do/colab_Enem2019
+   
+* **Modelos preditivos de ML -  Notas do Enem -  Imersão Dados Alura** - Em construção
+
+   * Github - http://bit.do/Enem2019-ML
+   
+   * Google Colab - http://bit.do/colab_Enem2019-ML
    
 * **Data Cleaning com Python** - Em construção
 
