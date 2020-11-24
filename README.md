@@ -61,4 +61,11 @@ Alguns notebooks de estudos contruídos durante o meu aprendizado em Data Scienc
    
 * **Feature Selection** - Em construção
    * [Google Colab](https://colab.research.google.com/drive/1HZSMtbqDuXj4XKng3imKssLV60IkvXQ5?usp=sharing)
+   
+Agradecimento aos Tutores por todo suporte dado até aqui!
+* [Sigmoidal](https://sigmoidal.ai/)
+* [Alura](https://www.alura.com.br/)
+* [Machine Learning Mastery](https://machinelearningmastery.com/)
+
+
 ---
