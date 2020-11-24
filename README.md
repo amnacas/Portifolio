@@ -15,55 +15,50 @@ Tem experiência na área de Engenharia de Materiais e Metalúrgica, com ênfase
 
 Atualmente expandindo os horizontes com Python, Power BI, Business Intelligence e Data Science.
 
-**Background in:** Science, Python, Machine Learning and Materials engineering.
+**💡 Background in:** Science, Python, Machine Learning and Materials engineering.
 
-**Links:**
+**📭 Contatos:**
 * [Instagram](https://www.instagram.com/amnacas)
 * [LinkedIn](https://www.linkedin.com/in/amanda-nacas-52484a25/)
 * [Medium](https://medium.com/@amandanacas)
 
 
-## Projetos:
+## 📈 Projetos:
 Alguns projetos desenvolvidos durante o meu aprendizado em Data Science:
 
 * **Setembro Amarelo: Análise exploratória dos dados de suicídio no Brasil:** 
-
-  * Github - http://bit.do/setembro_amarelo
+  * [Google Colab](https://colab.research.google.com/drive/17OVtqtRcAhJhlGgekbMLVcTnvqjdRk3y?usp=sharing)
   
-  * Google Colab - http://bit.do/colab_setembro_amarelo
-  
-* **Análise descritiva dos dados do Airbnb em Londres:** - Em construção
-
-   * Github - http://bit.do/Airbnb_London 
+* **Análise descritiva dos dados do Airbnb em Londres:** 
+   * [Google Colab](https://colab.research.google.com/drive/1lWNMSHcMxQaB4c103GZu4q39qSsb22pF?usp=sharing)
    
-   * Google Colab - http://bit.do/colab_airbnb_londres 
+* **Análise de sentimentos - Reviews do Airbnb em Londres:**  - Em breve
+   * [Google Colab](https://colab.research.google.com/)
 
 * **Análise exploratória de dados do enem - Imersão Dados Alura** - Em construção
+   * [Google Colab](https://colab.research.google.com/drive/15UCBikrO4YhVQ87vJ2ZT6UZyau2vbL-k?usp=sharing)
+   
+* **Modelos preditivos de ML -  Notas do Enem -  Imersão Dados Alura** 
+   * [Google Colab](https://colab.research.google.com/drive/1qpdv-76KdAnaGhWlRJqmCg0jUp_UPvhV?usp=sharing)
+   
+   
+## 📝 Artigos:
+* [**5 habilidades essenciais de um PhD para o mundo corporativo**](https://www.linkedin.com/pulse/5-habilidades-essenciais-de-um-phd-para-o-mundo-amanda-nacas/)
 
-   * Github - http://bit.do/Enem2019
-   
-   * Google Colab - http://bit.do/colab_Enem2019
-   
-* **Modelos preditivos de ML -  Notas do Enem -  Imersão Dados Alura** - Em construção
+* [**Setembro Amarelo: Análise exploratória dos dados de suicídios no Brasil (1985–2015)**](https://medium.com/@amandanacas/setembro-amarelo-an%C3%A1lise-explorat%C3%B3ria-dos-dados-de-suic%C3%ADdios-no-brasil-1985-2015-4916e8587bd2)
 
-   * Github - http://bit.do/Enem2019-ML
-   
-   * Google Colab - http://bit.do/colab_Enem2019-ML
+* [**4 habilidades desenvolvidas ao aprender programação**](https://www.linkedin.com/pulse/4-habilidades-desenvolvidas-ao-aprender-programa%C3%A7%C3%A3o-amanda-nacas/)
+
+
+## 🎓 Teoria e Tutoriais:
+Alguns notebooks de estudos contruídos durante o meu aprendizado em Data Science:
+
+* **Fundamentos de Machine Learning**
+   * [Google Colab](https://colab.research.google.com/drive/16X5iC7WDq4rZBEkupKYV33JhaYZDD7Hh?usp=sharing)
    
 * **Data Cleaning com Python** - Em construção
-
-   * Github - http://bit.do/DataCleaning
+   * [Google Colab](https://colab.research.google.com/drive/1Ur3HPD9KpQwBtS358fpvqgAH1SvNr1HV?usp=sharing)
    
-   * Google Colab - http://bit.do/colab_DataCleaning
-   
-
-## Artigos:
-* **5 habilidades essenciais de um PhD para o mundo corporativo** 
-   * http://bit.do/5-habilidades-essenciais-de-um-phd-para-o-mundo
-* **Setembro Amarelo: Análise exploratória dos dados de suicídios no Brasil (1985–2015)** 
-   * http://bit.do/analise-setembro-amarelo
-* **4 habilidades desenvolvidas ao aprender programação** 
-   * http://bit.do/4-habilidades-desenvolvidas-ao-aprender-programacao
-
-
+* **Feature Selection** - Em construção
+   * [Google Colab](https://colab.research.google.com/drive/1HZSMtbqDuXj4XKng3imKssLV60IkvXQ5?usp=sharing)
 ---
