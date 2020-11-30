@@ -55,6 +55,9 @@ Alguns notebooks de estudos contruídos durante o meu aprendizado em Data Scienc
 
 * **Fundamentos de Machine Learning**
    * [Google Colab](https://colab.research.google.com/drive/16X5iC7WDq4rZBEkupKYV33JhaYZDD7Hh?usp=sharing)
+
+* **Métricas para avaliação de desempenho de Modelos de ML**
+   * [Google Colab](https://colab.research.google.com/drive/18037UzKPbhqpx2XLQQ48Rky-8iZLgwJk?usp=sharing)  
    
 * **Data Cleaning com Python** - Em construção
    * [Google Colab](https://colab.research.google.com/drive/1Ur3HPD9KpQwBtS358fpvqgAH1SvNr1HV?usp=sharing)
