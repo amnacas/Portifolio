@@ -40,6 +40,9 @@ Alguns projetos desenvolvidos durante o meu aprendizado em Data Science:
    
 * **Modelos preditivos de ML -  Notas do Enem -  Imersão Dados Alura** 
    * [Google Colab](https://colab.research.google.com/drive/1qpdv-76KdAnaGhWlRJqmCg0jUp_UPvhV?usp=sharing)
+  
+* **Análise dos apps mais atrativos aos usuários Android e iOS - Dataquest** 
+   * [Jupyter Notebook](https://github.com/amnacas/Portifolio/blob/master/Projeto%20-%20An%C3%A1lise%20dos%20apps%20mais%20atrativos%20aos%20usu%C3%A1rios%20Android%20e%20iOS%20-%20vers%C3%A3o%20dataquest.ipynb)
    
    
 ## 📝 Artigos:
